@@ -81,10 +81,10 @@ No laço principal, permite que o usuário digite comandos simples para controla
 | Functions            | description                                          
 |----------------------|-----------------------------------------------------
 | <kbd>avancar</kbd>      | Executa um [turno](#turno-simulacao) da simulação.
-| <kbd>add agente x y</kbd>     | Adiciona um novo Agente na posição (x, y).
-| <kbd>add recurso x y</kbd>     | Adiciona um novo Recurso na posição (x, y).
-| <kbd>add obstaculo x y</kbd>     | Adiciona um novo Obstáculo na posição (x, y).
-| <kbd>info x y</kbd>     | Se houver uma entidade na posição (x,y), exibe seus detalhes (ID, energia, etc.) e, se for um agente, seu histórico de ações (desempilhando e mostrando o conteúdo da Stack).
+| <kbd>add agente (x) (y)</kbd>     | Adiciona um novo Agente na posição (x, y).
+| <kbd>add recurso (x) (y)</kbd>     | Adiciona um novo Recurso na posição (x, y).
+| <kbd>add obstaculo (x) (y)</kbd>     | Adiciona um novo Obstáculo na posição (x, y).
+| <kbd>info (x) (y)</kbd>     | Se houver uma entidade na posição (x,y), exibe seus detalhes (ID, energia, etc.) e, se for um agente, seu histórico de ações (desempilhando e mostrando o conteúdo da Stack).
 | <kbd>sair</kbd>     | Termina a aplicação.
 
 
